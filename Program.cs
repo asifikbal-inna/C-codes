@@ -1,15 +1,12 @@
 ﻿using System;
 
-class program
+class Program
 {
-    static void Main1()
+    static void main()
     {
-        Console.WriteLine("Welcome to C sharp training  1");
-    }
-    static void Main()
-    {
-        Console.WriteLine("Welcome to C sharp training ");
-        Main1();
+        Console.WriteLine(" PLEASE ENTER YOUR NAME");
+        string Su = Console.ReadLine();
+        Console.WriteLine("Hello " + Su);
     }
 
 }
