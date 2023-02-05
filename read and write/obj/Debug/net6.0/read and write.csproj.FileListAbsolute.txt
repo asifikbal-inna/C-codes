@@ -1,0 +1,5 @@
+C:\Users\Asus\OneDrive\Desktop\leggo\read and write\obj\Debug\net6.0\read and write.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\leggo\read and write\obj\Debug\net6.0\read and write.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\leggo\read and write\obj\Debug\net6.0\read and write.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\leggo\read and write\obj\Debug\net6.0\read and write.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\leggo\read and write\obj\Debug\net6.0\read and write.csproj.CoreCompileInputs.cache

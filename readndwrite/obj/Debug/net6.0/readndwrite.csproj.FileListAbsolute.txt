@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Desktop\leggo\readndwrite\obj\Debug\net6.0\readndwrite.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\leggo\readndwrite\obj\Debug\net6.0\readndwrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\leggo\readndwrite\obj\Debug\net6.0\readndwrite.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\leggo\readndwrite\obj\Debug\net6.0\readndwrite.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\leggo\readndwrite\obj\Debug\net6.0\readndwrite.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\leggo\readndwrite\bin\Debug\net6.0\readndwrite.exe
+C:\Users\Asus\OneDrive\Desktop\leggo\readndwrite\bin\Debug\net6.0\readndwrite.deps.json
+C:\Users\Asus\OneDrive\Desktop\leggo\readndwrite\bin\Debug\net6.0\readndwrite.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\leggo\readndwrite\bin\Debug\net6.0\readndwrite.dll
+C:\Users\Asus\OneDrive\Desktop\leggo\readndwrite\bin\Debug\net6.0\readndwrite.pdb
+C:\Users\Asus\OneDrive\Desktop\leggo\readndwrite\obj\Debug\net6.0\readndwrite.dll
+C:\Users\Asus\OneDrive\Desktop\leggo\readndwrite\obj\Debug\net6.0\refint\readndwrite.dll
+C:\Users\Asus\OneDrive\Desktop\leggo\readndwrite\obj\Debug\net6.0\readndwrite.pdb
+C:\Users\Asus\OneDrive\Desktop\leggo\readndwrite\obj\Debug\net6.0\readndwrite.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\leggo\readndwrite\obj\Debug\net6.0\ref\readndwrite.dll
